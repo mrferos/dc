@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+cmd = require('./../lib/commandline.js');
+cmd.run();

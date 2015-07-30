@@ -1,0 +1,29 @@
+{
+  "name": "decision-convert",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrferos/dc.git"
+  },
+  "preferGlobal": "true",
+  "version": "0.1.0",
+  "description": "Converting dates between time zones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dc": "./bin/dc"
+  },
+  "dependencies": {
+    "moment-timezone": "0.4.0",
+    "yargs": "3.15.0"
+  },
+  "keywords": [
+    "date",
+    "convert",
+    "command",
+    "line"
+  ],
+  "author": "Andres Galindo <me@andresgalindo.us> (http://andresgalindo.com/)",
+  "license": "MIT"
+}
