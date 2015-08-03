@@ -13,3 +13,11 @@ dc --from="0600 EST" --to="UTC"
 ```
 
 The format in the `--from` flag is the only one supported at the moment, I may update it in the future if I have time/need. 
+
+## Installation
+
+It can be installed via `npm` with:
+
+```
+npm install --global cli-date-convert
+```
