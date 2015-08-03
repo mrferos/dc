@@ -1,5 +1,5 @@
 {
-  "name": "dc",
+  "name": "cli-date-convert",
   "repository": {
     "type": "git",
     "url": "git@github.com:mrferos/dc.git"
